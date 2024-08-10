@@ -45,15 +45,15 @@ Ensure you have Python installed, then install the required packages using:
 
 - **Channel:**
 Add your channel ID on line 113.  
-![channel_image](../data/images/channel_image.png)
+![channel_image](./Data/images/channel_image.png)
 
 - **Check Interval:**
 Customize the interval for website checks on line 135.  
-![interval_image](../data/images/interval_image.png)
+![interval_image](./Data/images/interval_image.png)
 
 - **Exclude Messages:**
 Add messages to exclude in the `should_exclude_message` function starting at line 33.  
-![should_exclude_message](../data/images/should_exclude_message.png)
+![should_exclude_message](./Data/images/should_exclude_message.png)
 
 (These are the other list items on the website)
 
