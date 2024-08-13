@@ -58,7 +58,7 @@ Add messages to exclude in the `should_exclude_message` function starting at lin
 (These are the other list items on the website)
 
 More specifically these:  
-![exclude_messages](/data/images/exclude_message.png)
+![exclude_messages](./data/images/exclude_message.png)
 
 ## Contributing
 
