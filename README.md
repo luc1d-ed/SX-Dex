@@ -37,7 +37,7 @@ Ensure you have Python installed, then install the required packages using:
     Create a `.env` file in the `Data` directory and add your Discord bot token:
 
     ```
-    DISCORD_TOKEN="bot_token"
+    DISCORD_TOKEN="your_bot_token"
     ```
     Replace `your_bot_token` with your actual Discord bot token.
 
