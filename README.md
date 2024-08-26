@@ -2,6 +2,10 @@
 
 This bot scrapes messages from the SXD website and relays them to a Discord channel. It's designed to automate the notification process for new updates on the website. 🎉
 
+## Disclaimer
+
+⚠️ Note: The scraping script is currently not functional due to the implementation of CAPTCHA on the website. Hence the bot will not work.
+
 ### Why did I make this bot?
 
 1. **Performance**: The school website is poorly optimized and takes forever to load.
